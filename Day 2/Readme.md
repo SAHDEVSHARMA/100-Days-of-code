@@ -27,7 +27,7 @@
 | Problem | Result |
 |:--|:--|
 | Count Elements With Maximum Frequency | ![CountElements_result](./CountElementsWithMaximumFrequency.png) |
-| Rotate Array | ![RotateArray_result](./RotateArray.png) |
+| Rotate Array | ![RotateArray_result](./rotatearray.png) |
 
 ---
 
