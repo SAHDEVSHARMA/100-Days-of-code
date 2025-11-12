@@ -25,7 +25,7 @@
 ## 🧩 Output Screenshots
 | Problem | Result |
 |:--|:--|
-| Missing Number | ![MissingNumber_result](\MissingNumber.png) 
+| Missing Number | ![MissingNumber_result](\Missingnumber.png) 
 
 ---
 
