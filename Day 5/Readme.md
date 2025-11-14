@@ -25,7 +25,7 @@
 ## 🧩 Output Screenshots
 | Problem | Result |
 |:--|:--|
-| Remove Duplicates from Sorted Array | ![RemoveDuplicates_result](./RemoveDuplicatesFromSortedArray.png) |
+| Remove Duplicates from Sorted Array | ![RemoveDuplicatesfromSortedArray_result](./RemoveDuplicatesfromSortedArray.png)
 
 ---
 
