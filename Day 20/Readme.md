@@ -1,4 +1,4 @@
-# 🧠 Day 20– HashMap & Strings (Easy)
+# 🧠 Day 20 – HashMap & Strings (Easy)
 
 **📅 Date:** November 30, 2025  
 **💻 Language:** Java  
